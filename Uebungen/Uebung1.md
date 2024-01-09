@@ -3,6 +3,7 @@
 ### 3. Was ist der  unterschied zwischen JRE und JDK und was davon ist noetig fuer den Entwickler bzw. Anwender?
 ### 4. Muss jede Klasse in einer eigenen Datei sein?
 ### 5. Welche der folgenden Java‐Anweisungen sind fehlerhaft? Handelt es sich um einen Compiler‐ oder einen Laufzeitfehler? 
+
 ```java
 class C {
  public static void main(String[] args) {
