@@ -14,3 +14,10 @@
   7. [Generics](https://moodle.hsnr.de/mod/resource/view.php?id=595578)
   8. [Kommunikation](https://moodle.hsnr.de/mod/resource/view.php?id=595580)
   9. [Lambda Ausdurecke und Streams](https://moodle.hsnr.de/mod/resource/view.php?id=595581)
+## Übung-TO-DO-List
+- [ ] [Übung 1 Basics](https://moodle.hsnr.de/mod/folder/view.php?id=336421) 
+- [ ] [Übung 2](https://moodle.hsnr.de/mod/folder/view.php?id=336712)
+- [ ] [Übung 3](https://moodle.hsnr.de/mod/folder/view.php?id=336720)
+- [ ] [Übung 4](https://moodle.hsnr.de/mod/folder/view.php?id=367613)
+- [ ] [Übung 5](https://moodle.hsnr.de/mod/folder/view.php?id=374333)
+- [ ] [Übung 6](https://moodle.hsnr.de/mod/folder/view.php?id=378013)
