@@ -50,4 +50,7 @@ b) Ausgabe für **index = 0** <br>
 c) Ausgabe für **index = 1** <br>
 d) Ausgabe für **index = 2** <br>
 
-1. Schreiben Sie einen eigene Klasse MeineException. Welche Klasse muesen Sie erweiter 
+### 2. Schreiben Sie eine eigene Klasse MeineException. Welche Klasse muesen Sie erweitern?
+### 3. Werfen und fangen Sie MeineException.
+### 4. Wie koennen Sie die generische Exception benutzen um MeineException zu fangen.
+### 5. Wie koennen Sie sich die Exceptioninfo ausgeben lassen.(Hinweis: Polymorphie)
