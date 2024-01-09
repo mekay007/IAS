@@ -13,4 +13,4 @@
   #### -------------- Nicht Klausurrelevant ------------------------------
   7. [Generics](https://moodle.hsnr.de/mod/resource/view.php?id=595578)
   8. [Kommunikation](https://moodle.hsnr.de/mod/resource/view.php?id=595580)
-  9. Lambda Ausdurecke und Streams(https://moodle.hsnr.de/mod/resource/view.php?id=595581)
+  9. [Lambda Ausdurecke und Streams](https://moodle.hsnr.de/mod/resource/view.php?id=595581)
