@@ -1,8 +1,37 @@
 ### 1. Nennen Sie alle Schritte von einem Javaprogramm von Erstellung bis zur Aufuehrung. Und erlauteren Sie diese kurz.
 ### 2. Was ist eine JVM und was sind ihre Vorteile un Nachteile?
 ### 3. Was ist der  unterschied zwischen JRE und JDK und was davon ist noetig fuer den Entwickler bzw. Anwender?
-### 4. 
-### 1.Was ist die Ausgabe des folgenden Java Codes?
+### 4. Welche der folgenden Java‐Anweisungen sind fehlerhaft? Handelt es sich um einen Compiler‐ oder 
+einen Laufzeitfehler? 
+
+```java
+class C {
+ public static void main(String[] args) {
+   short s = 7;
+   int i = -12;
+   unsigned int u = +12;
+   long l = 123456789;
+   float f = 3.1415;
+   double d = 3.1415;
+  
+   s = i;
+   i = s;
+   s = 123456789;
+   int i2 = (int) l;
+   i = 12.4;
+   i = 12L;
+   i = (int) 12L;
+   String str = "Hallo" + "Welt";
+   str = args[-3];
+   str = "i = " + i;
+   str = str - i;
+  
+   boolean b = false;
+   b = 12L == 12;
+ }
+}
+```
+### 5.Was ist die Ausgabe des folgenden Java Codes?
   ```java
   class A{
     private int val;
@@ -40,5 +69,4 @@ public class C {
 
     }
 }
-
   ```
