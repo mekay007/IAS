@@ -1,9 +1,8 @@
 ### 1. Nennen Sie alle Schritte von einem Javaprogramm von Erstellung bis zur Aufuehrung. Und erlauteren Sie diese kurz.
 ### 2. Was ist eine JVM und was sind ihre Vorteile un Nachteile?
 ### 3. Was ist der  unterschied zwischen JRE und JDK und was davon ist noetig fuer den Entwickler bzw. Anwender?
-### 4. Welche der folgenden Java‐Anweisungen sind fehlerhaft? Handelt es sich um einen Compiler‐ oder 
-einen Laufzeitfehler? 
-
+### 4. Muss jede Klasse in einer eigenen Datei sein?
+### 5. Welche der folgenden Java‐Anweisungen sind fehlerhaft? Handelt es sich um einen Compiler‐ oder einen Laufzeitfehler? 
 ```java
 class C {
  public static void main(String[] args) {
@@ -31,7 +30,7 @@ class C {
  }
 }
 ```
-### 5.Was ist die Ausgabe des folgenden Java Codes?
+### 6. Was ist die Ausgabe des folgenden Java Codes?
   ```java
   class A{
     private int val;
@@ -70,3 +69,5 @@ public class C {
     }
 }
   ```
+### 7. Schreiben Sie ein einfaches Zahlen Raten das von 1-10. Falls die angegeben Zahl ausserhalb des definierten Bereiches liegt geben Sie einen Fehler mittel der Standard Fehlerausgabe aus.
+
