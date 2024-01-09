@@ -28,6 +28,14 @@
 | (ohne) | | | | |
 | protected | | | | |
 | public | | | | |
-
-
-
+#### 4. Fuellen Sie folgende Tabelle aus.
+|      | normale Klasse | Abstrakte Klassen | Interfaces |
+|------|----------------|-------------------|------------|
+| Schluesselwort (Defintion) | | | | |
+| Schluesselwort (Weiderverwendung) | | | | |
+| Mehrfachvererbung moeglich| | | | |
+| Enthaelt Methoden **mit** Implementierung | | | | |
+| Enthaelt Methoden **ohne** Implementierung | | | | |
+| Erzeugung von Objekten mit **new**| | | | |
+| Verwendbar als Typ | | | | |
+| Moegliche Modifier fuer Methoden | | | | |
