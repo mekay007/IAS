@@ -1,6 +1,6 @@
 # Exceptions 
 ### Vertstaendnis
-#### Analysieren Sie den Ablauf des vorstehenden Programms. Was wird jeweils ausgegeben? 
+#### 1. Analysieren Sie den Ablauf des vorstehenden Programms. Was wird jeweils ausgegeben? 
 ```java
 import java.awt.AWTException;
 public class ExceptionTest {
