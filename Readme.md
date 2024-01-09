@@ -10,8 +10,7 @@
 11. [Sehen](https://moodle.hsnr.de/mod/resource/view.php?id=593256)
 12. [Gestaltgesetze](https://moodle.hsnr.de/mod/resource/view.php?id=596104)
 13. [Erfahrungen, Empfehlungen und Handlungprozesse](https://moodle.hsnr.de/mod/resource/view.php?id=596105)
-  ---
-  #### Nicht Klausurrelevant
+  #### -------------- Nicht Klausurrelevant ------------------------------
   7. [Generics](https://moodle.hsnr.de/mod/resource/view.php?id=595578)
   8. [Kommunikation](https://moodle.hsnr.de/mod/resource/view.php?id=595580)
   9. Lambda Ausdurecke und Streams(https://moodle.hsnr.de/mod/resource/view.php?id=595581)
