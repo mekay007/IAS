@@ -1,4 +1,8 @@
-### Was ist die Ausgabe des folgenden Java Codes?
+### 1. Nennen Sie alle Schritte von einem Javaprogramm von Erstellung bis zur Aufuehrung. Und erlauteren Sie diese kurz.
+### 2. Was ist eine JVM und was sind ihre Vorteile un Nachteile?
+### 3. Was ist der  unterschied zwischen JRE und JDK und was davon ist noetig fuer den Entwickler bzw. Anwender?
+### 4. 
+### 1.Was ist die Ausgabe des folgenden Java Codes?
   ```java
   class A{
     private int val;
