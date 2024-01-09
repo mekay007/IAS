@@ -10,17 +10,18 @@
 #### 7. Warum eigentlich wird eigentlich ein Objekt der Klasse Object benutzt.
 #### 8. Was versteht man unter dynamischen Bindung und was sind die Vorteile.
 #### 9. Was ist ein Paket?
+#### 10. Was fuer Konsequenzen einstehen wenn ich keinen Zugriffsmodifikator bein einr Klassendeklaration mit angebe?
 
 
 ## Praktisch
-#### Implementieren Sie folgendes Diagramm mit Hilfe von Abstraktion und Polymorohie
+#### 1. Implementieren Sie folgendes Diagramm mit Hilfe von Abstraktion und Polymorohie
 ![uml](../images/poly.png)
 
-#### 4. Realisieren Sie folgendes diagramm. Ueberlegen Sie sich welche Methoden Sie ueberladen mochten und wie. Beachtet Sie so viel wie Moeglich aus der Superklasse Wieder zu verwenden. Beruecksichtigen Sie auch die dynamische Bindung(Polymorphie)
+#### 2. Realisieren Sie folgendes diagramm. Ueberlegen Sie sich welche Methoden Sie ueberladen mochten und wie. Beachtet Sie so viel wie Moeglich aus der Superklasse Wieder zu verwenden. Beruecksichtigen Sie auch die dynamische Bindung(Polymorphie)
 ![uml](../images/Ias.png)
 
 #### Erweiteren Sie ihre Klasse Tier um das Interface Tierverhalten welche die Methoden **move()** und **gibLaut()**.
-#### Fuellen Sie folgende Tabelle aus.
+#### 3. Fuellen Sie folgende Tabelle aus.
 |      | Innerhalb der selben Klasse | Innerhalb des selben Paketes | In Unterklassen | In sonstigen Klassen |
 |------|-----------------------------|------------------------------|------------------|----------------------|
 | private | | | | |
