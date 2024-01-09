@@ -10,7 +10,7 @@
 #### 7. Warum eigentlich wird eigentlich ein Objekt der Klasse Object benutzt.
 #### 8. Was versteht man unter dynamischen Bindung und was sind die Vorteile.
 #### 9. Was ist ein Paket?
-#### 10. Was fuer Konsequenzen einstehen wenn ich keinen Zugriffsmodifikator bein einr Klassendeklaration mit angebe?
+#### 10. Was fuer Konsequenzen einstehen, wenn man keinen Zugriffsmodifikator bein einr Klassendeklaration mit angebe?
 
 
 ## Praktisch
