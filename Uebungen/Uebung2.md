@@ -21,11 +21,12 @@
 
 #### Erweiteren Sie ihre Klasse Tier um das Interface Tierverhalten welche die Methoden **move()** und **gibLaut()**.
 #### Fuellen Sie folgende Tabelle aus.
- |      |Innerhalb der selben Klasse | Innerhalb des selben Paketes | In Unterklassen | In sonstogen Klassen |
- |------|------------|----------|----------|----------|------------|
- | private | | | | | |
- | (ohne) | | | | | |
- | protected| | | | | |
- | public| | | | | |
+|      | Innerhalb der selben Klasse | Innerhalb des selben Paketes | In Unterklassen | In sonstigen Klassen |
+|------|-----------------------------|------------------------------|------------------|----------------------|
+| private | | | | |
+| (ohne) | | | | |
+| protected | | | | |
+| public | | | | |
+
 
 
