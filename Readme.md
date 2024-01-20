@@ -16,5 +16,6 @@
   9. [Lambda Ausdurecke und Streams](https://moodle.hsnr.de/mod/resource/view.php?id=595581)
 ## Übung-TO-DO-List
 - [ ] [Übung 1 Basics (Kapitel 1)](Uebungen/Uebung1.md)
-- [ ] [Übung 2 Basics (Kapitel 2-3)](Uebungen/Uebung2.md) 
+- [ ] [Übung 2 Basics (Kapitel 2-3)](Uebungen/Uebung2.md)
+- [ ] [Übung 3 Exceptions](Uebungen/Uebung3.md) 
 
