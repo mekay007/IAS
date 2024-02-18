@@ -20,7 +20,7 @@
 2. Wie viele main-Funktionen können Sie in ihrem Programm haben?  
    Mehrere aber, nur die Main der Klasse wird beruecksichtigt, welche zum starten des Programms genutzt wurde.  
 ## Klassen und Objekte  
-1. Wozu dient final?
+1. Wozu dient final?  
    **Methoden**: Methoden koennen nicht ueberschrieben werden durch unterklassen  
    **Klassen**: Von der Klasse kann nicht geerbt werden  
    **Variablen**: Variablen werden zu Konstanten und koennen nicht mehr geaendert werden
