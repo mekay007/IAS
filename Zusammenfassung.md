@@ -53,8 +53,8 @@
    'this =' wird mit dem einem String konkatiniert, welcher aus der toString Methode der aktuellen Instanz erzeugt wird.   
    
    
-   ### Spickzettel
-   1. Bedeutung Interaktiver Systeme  
+### Spickzettel
+1. Bedeutung Interaktiver Systeme  
       • Steigende Anzahl Anwender
       • Private Nutzung gewann in den letzten Jahren immer mehr
       an Bedeutung
@@ -64,25 +64,51 @@
       ermöglicht werden)
       • Webbasierte Systeme müssen auf verschiedensten Geräten
       nutzbar sein (Mobile, Tablet, Desktop)
-   1. Aspekte Interaktiver Systeme <br>
+1. Aspekte Interaktiver Systeme <br>
       Mensch– Wahrnehmen– Denken– Handeln– Eigenschaften berücksichtigen
       Maschine– Wahrnehmen / Eingeben– Verarbeiten / Reagieren– Darstellen / Ausgeben– Eigenschaften konstruierbar
-   1. Software-Ergonomie:
+1. Software-Ergonomie:
       Ziel: Arbeit hin zu leicht verständlicher und schnell benutzbarer Software<br>
       – unter den gebotenen technischen Möglichkeiten – und unter der Einhaltung definierter bzw. empirisch
       entstandener Standards und Styleguides<br>
       • Teilgebiet der Mensch-Computer-Interaktion
       • Ergebnis ist die Gebrauchstauglichkeit von Computerprogrammen
       Konsistenz der Benutzerführung-Ständige Verfügbarkeit-Unmittelbare Verständlichkeit der Benutzerführung-Automatisierung sich wiederholender Aufgaben
-   1. Richtlinien <br>
+1. Richtlinien <br>
    Ziel:• konsistente Benutzungsschnittstellen<br>
   Inhalte:• Absprache mit Kunden / Zielgruppe • Handlungsrahmen für Entwickler(gruppen)<br>
   • Berücksichtigung allgemein gültiger Regeln, Normen, Standards und gesetzlicher Regelungen <br>
-  1. Normen <br>
+1. Normen <br>
      **Aufgabenangemessenheit:** aufgabenangemessen wenn Benutzer unterst., seine Arbtsauf. eff u. eff zu er.<br>
      **Erwartungskonformität:** erw.konform wenn konsistent ist und den Merkmalen des Benutzers entspricht<br>
      **Lernförderlichkeit:** lernfeorderlich wenn Benutzer beim Erlernen des Dialogsystems unterstützt und anleitet.<br>
      **Selbstbeschreibungsfähigkeit:** selbstbeschreibungsfähig wenn je. einz. Dia.Schr. d. Rueck. des DiaS. unm. verst. ist oder auf An.von B. er. wir.<br>
-     **Fehlertoleranz:** akzeptabeles Ergebnis trotz durch korrektur von benutzerfehlern<>br
-     **Steuerbarkeit:** 
+     **Fehlertoleranz:** akzeptabeles Ergebnis trotz durch korrektur von benutzerfehlern<br>
+     **Steuerbarkeit:** steuerbar wenn starten richtung u. geschw. beeinflussen<br>
+     **Individualisierbarkeit:** wenn DiaS Anpass an Erfo. der Arbe. sowi anp an ind. skills und Vorl. des B zul.
+   <br>
+Anspruch Erwartungskonformität:
+– Fördert Standardisierung und Vereinheitlichung
+• Ansprüche, Individualisierung und Lernförderlichkeit
+– Berücksichtigung spezifischer Ausprägungen
+– Lernprozesse
+• Scheinbarer Widerspruch? Nein:
+– UI soll Gewohnheiten unterstützen und
+– Erlernen neuer Methoden, Entwickeln individueller Lösungswege
+unterstützen
+1. Barrierefreiheit
+technische Zugänglichkeit der Software verbunden mit grundlegenden
+Prinzipien der Software-Ergonomie<br>
+• Ziele
+ – Software durch jeden Benutzer einsetzbar
+• „Keinen Nutzer von der Nutzung ausschließen“
+• Nutzung durch Behinderte ohne besondere Erschwernis und fremde Hilfe
+– Produktivität erhöhen
+– Zufriedenheit erhöhen
+1. Farbfehlsichtigkeiten
+   rot-gelb, braun-gruen, violett-blau, dunkelrot-schwarz
+   - Protonapie: Rot-Zapfen fehlt 
+   - Protanomalie: Rotsehschw. Rot-Zapfen degeneriert
+   - Deutanopie: Gruen-Blindheit dunkelrot-schwarz nicht vertasucht
+   - Deutanomalie: Gruensehschwaeche
      
