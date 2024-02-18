@@ -83,6 +83,6 @@
      **Erwartungskonformität:** erw.konform wenn konsistent ist und den Merkmalen des Benutzers entspricht<br>
      **Lernförderlichkeit:** lernfeorderlich wenn Benutzer beim Erlernen des Dialogsystems unterstützt und anleitet.<br>
      **Selbstbeschreibungsfähigkeit:** selbstbeschreibungsfähig wenn je. einz. Dia.Schr. d. Rueck. des DiaS. unm. verst. ist oder auf An.von B. er. wir.<br>
-     **Fehlertoleranz:**akzeptabeles Ergebnis trotz durch korrektur von benutzerfehlern
-     **Steuerbarkeit:**
+     **Fehlertoleranz:** akzeptabeles Ergebnis trotz durch korrektur von benutzerfehlern<>br
+     **Steuerbarkeit:** 
      
