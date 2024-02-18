@@ -17,8 +17,8 @@
    Wie muessen uns eine JDK dowloaden, da wir bestimmte Entwicklungstools benoetigen sowie einen Java-Compiler.  
    Zudem brauchen wir eine JVM zudem waeren Bibliotheken nuetzlich, deswegen bracuhen woir auch ein JRE welches inclusiv mit der JDK heruntergeladeb wird.
    Nun ein Textdoukument mit endung.java erstellen und dann nur noch kompilieren und ausfuehren.
-2. Wie viele main-Funktionen können Sie in ihrem Programm haben?
-   Nur die Main der Klasse wird beruecksichtigt, welche zum starten des Programms genutzt wurde.  
+2. Wie viele main-Funktionen können Sie in ihrem Programm haben?  
+   Mehrere aber, nur die Main der Klasse wird beruecksichtigt, welche zum starten des Programms genutzt wurde.  
 ## Klassen und Objekte  
 1. Wozu dient final?
    **Methoden**: Methoden koennen nicht ueberschrieben werden durch unterklassen  
